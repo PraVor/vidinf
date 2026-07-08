@@ -33,7 +33,7 @@
 #define C_GRAY    "\033[90m"
 
 /* ─── Version ─────────────────────────────────────────────────── */
-#define VIDINF_VERSION "1.0.0"
+#define VIDINF_VERSION "2.3.1"
 
 /* ─── Output mode flags ────────────────────────────────────────── */
 typedef struct {
